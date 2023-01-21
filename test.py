@@ -18,3 +18,7 @@ def somar(primeiro_op,segundo_operador):
 somar(x,y)
 
 somar(2,2)
+def subtrair(a ,b):
+    print (a -b)
+
+subtrair(x,y)
